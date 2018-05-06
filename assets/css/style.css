@@ -28,3 +28,24 @@
     margin-right: 2rem;
 }
 /* end navbar */
+
+/*jumbotron*/
+.jumbotron{
+    background-color: #9bc2e8;
+    color: #f7041c;
+}
+/*end jumbotron*/
+
+/*colunm*/
+.card{
+    width: 9rem;
+    margin: auto;
+}
+/*end column*/
+
+/*footer*/
+footer{
+    margin-top: 1rem;
+    background-color: #fff;
+}
+/*end footer*/
